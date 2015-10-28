@@ -110,6 +110,8 @@ var brokenAuthHeaderProviders = []string{
 	"https://user.gini.net/",
 	"https://api.netatmo.net/",
 	"https://slack.com/",
+	"https://internaloauth.staging.sbaustralia.com",
+	"https://internaloauth.sbaustralia.com",
 }
 
 // providerAuthHeaderWorks reports whether the OAuth2 server identified by the tokenURL
